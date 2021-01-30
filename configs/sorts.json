@@ -7,10 +7,12 @@
         "ch4", 
         "ch5", 
         "ch6", 
-        "ch7"
+        "ch7", 
+        "ch8"
     ], 
     "ch1": [
-        "2021-01-30.txt"
+        "2021-01-30.txt", 
+        "2021-01-30-2-industry-analysis.md"
     ], 
     "ch2": [
         "2021-01-30.txt"
@@ -30,30 +32,38 @@
     "ch7": [
         "2021-01-30.txt"
     ], 
+    "ch8": [
+        "2021-01-30-message.md"
+    ], 
     "__positions": {
+        "ch1/2021-01-30-2-industry-analysis.md": 2002, 
         "ch5/2021-01-30.txt": 6001, 
         "ch1": 2, 
         "ch1/2021-01-30.txt": 2001, 
         "preface.md": 1, 
         "ch4/reasonable-earnings-ratio.md": 5001, 
+        "ch3": 4, 
         "ch2/2021-01-30.txt": 3001, 
         "ch3/2021-01-30.txt": 4001, 
-        "ch3": 4, 
+        "ch8/2021-01-30-message.md": 9001, 
         "ch4": 5, 
         "ch5": 6, 
         "ch6": 7, 
         "ch7": 8, 
         "ch2": 3, 
+        "ch8": 9, 
         "ch6/2021-01-30.txt": 7001, 
         "ch7/2021-01-30.txt": 8001
     }, 
     "__raw_positions": {
+        "ch1/2021-01-30-2-industry-analysis.md": 2, 
         "ch5/2021-01-30.txt": 1, 
         "ch2/2021-01-30.txt": 1, 
         "ch1/2021-01-30.txt": 1, 
         "preface.md": 1, 
         "ch3/2021-01-30.txt": 1, 
         "ch4/reasonable-earnings-ratio.md": 1, 
+        "ch8/2021-01-30-message.md": 1, 
         "ch1": 2, 
         "ch2": 3, 
         "ch3": 4, 
@@ -61,6 +71,7 @@
         "ch5": 6, 
         "ch6": 7, 
         "ch7": 8, 
+        "ch8": 9, 
         "ch6/2021-01-30.txt": 1, 
         "ch7/2021-01-30.txt": 1
     }
