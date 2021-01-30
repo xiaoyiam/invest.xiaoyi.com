@@ -4,7 +4,7 @@
 
 [CH1 宏观经济环境](ch1)        
 
-    1.1  [行业分析](ch1/2021-01-30-2-industry-analysis.md)
+1.1  [行业分析](ch1/2021-01-30-2-industry-analysis.md)
 
 [CH2 挖掘公司背后网络](ch2)  
 
