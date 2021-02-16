@@ -1,8 +1,12 @@
 {
     "": [
+<<<<<<< HEAD
         "summary.md", 
         "readme.md", 
         "preface.md", 
+=======
+        "yuquan", 
+>>>>>>> 65d8a299c4950ee15cb7f409f9f2149ee2eba89f
         "ch1", 
         "ch2", 
         "ch3", 
@@ -11,6 +15,7 @@
         "ch6", 
         "ch7", 
         "ch8", 
+<<<<<<< HEAD
         "note", 
         "yuquan", 
         "xiaolai", 
@@ -111,4 +116,35 @@
     "yuquan": [
         "2021-02-03.md"
     ]
+=======
+        "ouyang", 
+        "shixiong"
+    ], 
+    "__positions": {
+        "shixiong": 11, 
+        "ouyang": 10, 
+        "ch1": 2, 
+        "ch2": 3, 
+        "ch3": 4, 
+        "ch4": 5, 
+        "ch5": 6, 
+        "ch6": 7, 
+        "ch7": 8, 
+        "ch8": 9, 
+        "yuquan": 1
+    }, 
+    "__raw_positions": {
+        "shixiong": 11, 
+        "ouyang": 10, 
+        "ch1": 2, 
+        "ch2": 3, 
+        "ch3": 4, 
+        "ch4": 5, 
+        "ch5": 6, 
+        "ch6": 7, 
+        "ch7": 8, 
+        "ch8": 9, 
+        "yuquan": 1
+    }
+>>>>>>> 65d8a299c4950ee15cb7f409f9f2149ee2eba89f
 }
